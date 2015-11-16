@@ -1,4 +1,4 @@
-# Job Stories
+# Job Stories v1.0
 
 ## Teachers
 
@@ -13,3 +13,7 @@ When teaching art, I want to show students famous sculptures and achaeological f
 
 When I am doing a report on local culture I want to do a virtual tour to show my teacher I understand.
 
+
+## Majors Office
+
+When documenting the public heritage sites in Medellin I want to make it easier to share 
