@@ -1,3 +1,8 @@
+# User Stories/Job Stories
+We prefer to use job stories when trying to give context to the problem we are solving. Job stories are a concept used by a few big names in the software space, most notably [thoughtbot](https://thoughtbot.com/). The concept is detailed [here](https://robots.thoughtbot.com/converting-to-jobs-stories) and [here](https://medium.com/the-job-to-be-done/replacing-the-user-story-with-the-job-story-af7cdee10c27). The format for a job story is as follows:
+
+When [users work/life context] I want to [motivation] so that [outcome/benefit].
+
 # Verifiable User Requirements
 All user requirements suggested must be verfiable. The qualities of a verifiable user requirement are:
 - Based on user stories
