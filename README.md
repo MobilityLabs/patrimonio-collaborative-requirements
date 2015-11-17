@@ -4,7 +4,7 @@ Information about this project...
 
 # Contributing to the Project
 
-We are in the requirements gathering stage. While we have done extensive work on the design of the new version of the platform, we need input from the community to determine what is feasible given our budget and timeline. We have outline the process for making changes in the guidelines [here](./guidelines.md).
+We are in the requirements gathering stage. While we have done extensive work on the design of the new version of the platform, we need input from the community to determine what is feasible given our budget and timeline. We have outline the process for making changes in the guidelines [here](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/guidelines.md).
 
 
 The main page of this site is located at: [https://mobilitylabs.github.io/patrimonio-collaborative-requirements/](https://mobilitylabs.github.io/patrimonio-collaborative-requirements/)
