@@ -12,19 +12,20 @@ The main page of this site is located at: [https://mobilitylabs.github.io/patrim
 
 # File Structure
 
-[README](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/README.md)
-[guidelines](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/guidelines.md)
+[README](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/README.md)
+
+[guidelines](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/guidelines.md)
 
 v1.0
-- [designs/](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v1.0/designs/)
-- [case_study](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v1.0/case_study.md)
-- [code](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v1.0/code.md)
-- [job_stories](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v1.0/job_stories.md)
-- [technical_notes](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v1.0/technical_notes.md)
-- [user_research](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v1.0/user_reasearch.md)
+- [designs/](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v1.0/designs/)
+- [case_study](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v1.0/case_study.md)
+- [code](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v1.0/code.md)
+- [job_stories](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v1.0/job_stories.md)
+- [technical_notes](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v1.0/technical_notes.md)
+- [user_research](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v1.0/user_reasearch.md)
 
 v2.0_new_version
-- [brainstorming](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v2.0_new_version/brainstorming.md)
-- [job_stories](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v2.0_new_version/job_stories.md)
-- [requirements](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v2.0_new_version/requirements.md)
-- [schedule](https://github.com/mobilitylabs/patrimonio-collaborative-requirements/v2.0_new_version/schedule.md)
+- [brainstorming](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v2.0_new_version/brainstorming.md)
+- [job_stories](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v2.0_new_version/job_stories.md)
+- [requirements](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v2.0_new_version/requirements.md)
+- [schedule](https://github.com/MobilityLabs/patrimonio-collaborative-requirements/blob/master/v2.0_new_version/schedule.md)
