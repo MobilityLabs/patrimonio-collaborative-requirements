@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/MobilityLabs/patrimonio-collaborative-requirements.png?label=ready&title=Ready)](https://waffle.io/MobilityLabs/patrimonio-collaborative-requirements)
 # Patrimonio Medellin
 
 Information about this project...
